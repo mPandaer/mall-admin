@@ -1,0 +1,10 @@
+
+.user-profile {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.upload-button {
+  margin-left: 20px; /* Adjust the value as needed */
+}
